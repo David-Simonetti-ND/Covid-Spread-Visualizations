@@ -1,0 +1,1 @@
+View the code walkthrough and layperson videos to understand how the code works. All files need to be in the same directory and then ran.
